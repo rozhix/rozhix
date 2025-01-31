@@ -6,7 +6,7 @@
 I'm a Machine Learning Engineer with **3+ years of experience**, specializing in **NLP, Large Language Models (LLMs), Python programming, data analysis, and AI security**.  
 My expertise lies in developing and fine-tuning AI models, working with complex datasets, and building scalable AI solutions.  
 
-Currently, I'm a **Ph.D. student at the Rochester Institute of Technology (RIT)** and a **Research Assistant**, focusing on **LLM security, adversarial attacks, and defense mechanisms**.  
+Currently, I'm a **Ph.D. student at the Rochester Institute of Technology (RIT)** and a **Research Assistant**, focusing on **LLM security, and defense mechanisms**.  
 
 ---
 
@@ -21,8 +21,8 @@ Currently, I'm a **Ph.D. student at the Rochester Institute of Technology (RIT)*
 - 🚘 **License Plate Recognition**: Implemented a computer vision model for **automatic license plate detection**.  
 
 ### 🎓 Research Assistant @ RIT (2023–Present)  
-- 🏆 Working on **LLM security**, **jailbreak attack techniques**, and **defense mechanisms** to ensure AI safety.  
-- 🔍 Exploring **adversarial attacks** and **guardrails** to improve LLM robustness.  
+- 🏆 Working on **LLM security**, and **defense mechanisms** to ensure AI safety.  
+- 🔍 Exploring **guardrails** to improve LLM robustness.  
 
 ---
 
