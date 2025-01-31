@@ -32,30 +32,16 @@ Currently, I'm a **Ph.D. student at the Rochester Institute of Technology (RIT)*
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 
 ### 🛡 AI Security  
-![Jailbreak Attacks](https://img.shields.io/badge/Jailbreak_Attacks-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)  
-![Defense Strategies](https://img.shields.io/badge/Defense_Strategies-%23008C76.svg?style=for-the-badge&logo=shield&logoColor=white)  
-![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-%23004AAD.svg?style=for-the-badge&logo=openai&logoColor=white)  
+![Jailbreak Attacks](https://img.shields.io/badge/Jailbreak_Attacks-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)  ![Defense Strategies](https://img.shields.io/badge/Defense_Strategies-%23008C76.svg?style=for-the-badge&logo=shield&logoColor=white)  ![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-%23004AAD.svg?style=for-the-badge&logo=openai&logoColor=white)  
 
 ### 🛠 Frameworks & Libraries  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFCC4D.svg?style=for-the-badge&logo=huggingface&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFCC4D.svg?style=for-the-badge&logo=huggingface&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 
 ### 📊 Data Science & Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ff5722.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-%234E8EE8.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-%231E88E5.svg?style=for-the-badge&logo=plotly&logoColor=white)  
-![Folium](https://img.shields.io/badge/Folium-%234EAA25.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ff5722.svg?style=for-the-badge&logo=python&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-%234E8EE8.svg?style=for-the-badge&logo=python&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%231E88E5.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![Folium](https://img.shields.io/badge/Folium-%234EAA25.svg?style=for-the-badge&logo=python&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
 
 ### 🛠 Tools  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
