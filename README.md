@@ -10,6 +10,7 @@ I'm a Machine Learning Engineer with **3+ years of experience**, specializing in
 ## 🔹 Research & Work Experience  
 
 ### 🏢 Machine Learning Engineer @ Fanap (2021–Present)  
+- 😴 **Drowsiness Detection**: Developed a computer vision-based system to detect driver drowsiness using deep learning techniques.
 - 🚗 **Connected Cars**: Developed models to predict collision points using vehicle movement data and road network analysis.  
 - 🔋 **Predictive Maintenance**: Built models to estimate the **Remaining Useful Life (RUL)** and **State of Health (SOH)** of lithium-ion batteries.  
 - 📈 **AI in Forex Trading**: Created models for price prediction, news trading, and automated decision-making.  
