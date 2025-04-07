@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rozhina Taghdimi  
 
-## 🎓 Ph.D. Student in Electrical and Computer Engineering | 🧠 Machine Learning Engineer | 🤖 LLM & AI Researcher  
+## 🧠 Machine Learning Engineer | 🤖 LLM & AI Researcher  
 
 ## 🔹 About Me  
 I'm a Machine Learning Engineer with **3+ years of experience**, specializing in **NLP, Large Language Models (LLMs), Python programming, data analysis, and AI security**.  My expertise lies in developing and fine-tuning AI models, working with complex datasets, and building scalable AI solutions.  Currently, I'm a **Ph.D. student at the Rochester Institute of Technology (RIT)** and a **Research Assistant**, focusing on **LLM security, and defense mechanisms**.  
