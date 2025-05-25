@@ -18,9 +18,6 @@ I'm a Machine Learning Engineer with **3+ years of experience**, specializing in
 - 🐄 **Computer Vision in Agriculture**: Developed models for **animal detection** on farms.  
 - 🚘 **License Plate Recognition**: Implemented a computer vision model for **automatic license plate detection**.  
 
-### 🎓 Research Assistant @ RIT (2023–Present)  
-- 🏆 Working on **LLM security**, and **defense mechanisms** to ensure AI safety.  
-- 🔍 Exploring **guardrails** to improve LLM robustness.  
 
 ---
 
