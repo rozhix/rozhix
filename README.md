@@ -3,7 +3,7 @@
 ## 🧠 Machine Learning Engineer | 🤖 LLM & AI Researcher  
 
 ## 🔹 About Me  
-I'm a Machine Learning Engineer with **3+ years of experience**, specializing in **NLP, Large Language Models (LLMs), Python programming, data analysis, and AI security**.  My expertise lies in developing and fine-tuning AI models, working with complex datasets, and building scalable AI solutions.
+I'm a Machine Learning Engineer with **4+ years of experience**, specializing in **NLP, Large Language Models (LLMs), Python programming, data analysis, and AI security**.  My expertise lies in developing and fine-tuning AI models, working with complex datasets, and building scalable AI solutions.
 
 ---
 
